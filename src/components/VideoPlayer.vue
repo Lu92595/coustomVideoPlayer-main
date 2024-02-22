@@ -223,4 +223,7 @@ export default {
 .prism-info-display {
   box-sizing: border-box;
 }
+.prism-setting-speed {
+  display: none !important;
+}
 </style>
